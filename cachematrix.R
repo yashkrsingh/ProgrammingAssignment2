@@ -11,7 +11,7 @@
 ## get is a function that returns the matrix x stored in the main function.
 ## set is a function that changes the matrix stored in the main function.
 ## setInv and getInv are functions very similar to set and get. They don’t calculate the 
-## anything but simply store the value of the input in a variable m.
+## inverse but simply store the value of the input in a variable m.
 
 makeCacheMatrix <- function(x = matrix()) {
     
